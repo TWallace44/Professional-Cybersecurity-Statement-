@@ -1,0 +1,1 @@
+My goal as a Security Analyst is to apply my technical knowledge to help organizations protect their digital infrastructures from cyber threats. I am highly skilled in threat detection and incident response, SIEM tools and vulnerability assessment. I am eager to continue growing my expertise in cloud security and incident response in a dynamic and challenging environment. 
